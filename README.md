@@ -2,7 +2,8 @@
 
 1. configure .env file
 2. composer update
-3. npm install
+3. npm install vite @vitejs/plugin-vue --save-dev
+4. npm install
 
 ## Running the Application
 
